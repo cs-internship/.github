@@ -5,10 +5,15 @@
 ## Why CS Internship Stands Out
 
 - **Structured Learning Paths**: Follow clear, step-by-step courses in [Web Development](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web), [C#](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/csharp), and [Machine Learning](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/Machine%20Learning) designed to build skills progressively from beginner to advanced projects.
+
 - **100% Remote and Free**: Participate fully online without any cost, supported by a global community of volunteer mentors, making the program accessible to anyone, anywhere.
+
 - **Soft Skills at the Core**: Develop essential skills like communication, teamwork, problem-solving, and knowledge-sharing, preparing you for collaborative work in professional environments.
+
 - **Integrity-First Philosophy**: Learn and practice professional habits such as accountability, follow-through, and ethical decision-making skills that are vital for long-term success.
+
 - **Hands-On Practical Experience**: Work on real-world projects with professional teams, gaining exposure to production-level workflows, software architecture, and modern development practices.
+
 - **Active, Supportive Community**: Connect with fellow interns and mentors, share your progress, reflections, and achievements on platforms like LinkedIn, X (Twitter), and YouTube, and grow together.
 
 
