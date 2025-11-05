@@ -47,5 +47,5 @@ Interns develop essential skills in collaboration, communication, problem-solvin
 
 Learn more about the program and how to join:
 
-- [Program Introduction (English)](https://github.com/cs-internship/cs-internship-spec/)
-- [Program Introduction (Persian)](https://github.com/cs-internship/cs-internship-spec/)
+- [Program Introduction (English)](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/program%20introduction%20documents/Program%20Introduction%20--en.md)
+- [Program Introduction (Persian)](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/program%20introduction%20documents/Program%20Introduction%20--fa.md)
