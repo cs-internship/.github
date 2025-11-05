@@ -41,6 +41,7 @@ Interns develop essential skills in collaboration, communication, problem-solvin
 - [YouTube Channel](https://www.youtube.com/@csinternship8859/featured) – Watch interns’ presentations and project highlights.
 - [LinkedIn Posts](https://www.linkedin.com/feed/hashtag/cs_internship/) – Discover technical insights and progress shared by interns.
 - [X (Twitter) Posts](https://twitter.com/hashtag/cs_internship) – Read personal experiences and reflections from interns.
+- [Telegram Channel](https://t.me/cs_internship) – Receive important updates, announcements, and general program news.
 - [Specifications Repository](https://github.com/cs-internship/cs-internship-spec) – Explore full program documentation and learning paths.
 
 ## How to Apply
