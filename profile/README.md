@@ -1,6 +1,8 @@
 # CS Internship Program
 
-**CS Internship** is a fully remote, volunteer-driven, and completely free learning program designed to prepare participants for **real software teams** and **modern production environments**. Our goal is to help aspiring software engineers grow through **hands-on technical practice**, **soft skill development**, and **real-world teamwork**, all while fostering **integrity, accountability, and collaboration**.
+**CS Internship** is a fully remote, volunteer-driven, and completely free learning program designed to prepare participants for **real software teams** and **modern production environments**. Our goal is to help aspiring software engineers grow through **hands-on technical practice**, **soft skill development**, and **real-world teamwork**, all while fostering **integrity, accountability, and collaboration**.  
+
+Launched in **2018**, CS Internship has since welcomed **over 100 new interns and members** from around the world and collaborated with **5+ [supporting companies](https://github.com/cs-internship/cs-internship-spec/blob/master/companies/companies.md)** to provide real internship and teamwork opportunities.
 
 ## Why CS Internship Stands Out
 
@@ -15,7 +17,6 @@
 - **Hands-On Practical Experience**: Work on real-world projects with professional teams, gaining exposure to production-level workflows, software architecture, and modern development practices.
 
 - **Active, Supportive Community**: Connect with fellow interns and mentors, share your progress, reflections, and achievements on platforms like LinkedIn, X (Twitter), and YouTube, and grow together.
-
 
 ## Program Structure
 
